@@ -27,7 +27,6 @@ The following software is required to run the project:
 - Django 5.x
 - Django REST Framework
 - MySQL 8.x
-- Node.js
 - npm
 - React.js
 - Git
@@ -39,4 +38,4 @@ The following software is required to run the project:
 Open MySQL or MySQL Workbench and create the database using the following command:
 
 ```sql
-CREATE DATABASE ipm_system;
+CREATE DATABASE purchase;
