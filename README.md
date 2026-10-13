@@ -38,4 +38,4 @@ The following software is required to run the project:
 Open MySQL or MySQL Workbench and create the database using the following command:
 
 ```sql
-CREATE DATABASE purchase;
+CREATE DATABASE purchasesystem;
