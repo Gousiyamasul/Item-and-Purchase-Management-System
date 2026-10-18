@@ -82,7 +82,7 @@ DATABASES = {
         'NAME': 'purchasesystem',
         'USER':'root',
         'HOST':'localhost',
-        'PASSWORD':'Not Mentioned',
+        'PASSWORD':'Not_Mentioned',
         'PORT':'3306'
     }
 }
